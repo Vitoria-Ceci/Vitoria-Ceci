@@ -1,0 +1,3 @@
+Olá, estou começando a Programar!
+Estou interessada em Web-desing 💕
+Estudo na Faculdade Wyden-Unifavip...
