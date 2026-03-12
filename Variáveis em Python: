@@ -1,4 +1,0 @@
-nome = input("Entre com seu nome: ")
-print(len(nome))
-print(nome.count(input("Escolha uma letra: ")))
-nome.startswith(input("Cite uma ou mais letras: "))
