@@ -14,8 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50">
 </div>
-
- *Espero que curta o conteúdo!*
-<div align="center">
+<div align="right">
+ *Espero que curta o conteúdo!*❤
 <img src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" width="300">
 </div>
