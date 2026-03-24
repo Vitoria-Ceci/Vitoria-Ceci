@@ -1,7 +1,13 @@
-# Oi, meu nome é *Vitória Cecilia*,Prazer!
-💻Garota de Programa!
-📚Estudando no momento Js.
+# Oi, meu nome é *Vitória Cecilia*, Prazer!
+-💻Garota de Programa!
+-📚Estudando no momento JavaScript.
+-🎒Estudante da UniFavip, cursando "Ciência da Computação".
+---
+<div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRycm0yeTV3eXhlNXZwaXd2N3drbHpqbThweHpiajYzcmttZXMyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="150">
+## 🛠️ Tecnologias
 
-## Tecnologias
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
