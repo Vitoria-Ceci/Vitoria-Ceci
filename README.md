@@ -14,7 +14,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50">
 </div>
+
 <div align="right">
- *Espero que curta o conteúdo!*❤
-<img src="https://i.pinimg.com/originals/e5/bd/3a/e5bd3a2f2cf2f6f4dad0f531b92564be.gif" width="300">
+ 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWprZ2hqNWw4ODR0bGx6MWMzbGloZnZxeDluYjZuOHY2eHA4MWN4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eZsXcG2Y8zZDO/giphy.gif" width="200">
+*Espero que curta o conteúdo!*❤
 </div>
