@@ -21,5 +21,5 @@
 
 </div>
 <div align="right">
-*Espero que curta o conteúdo!*❤
+Espero que curta o conteúdo! ❤
 </div>
