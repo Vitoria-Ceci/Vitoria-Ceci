@@ -7,7 +7,8 @@
 
 ## 🛠️ Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png)
+![CSS](https://pt.wikipedia.org/wiki/Ficheiro:CSS3_logo_and_wordmark.svg)
+![JavaScript](https://skillforge.com/courses/javascript-training/)
 
 </div>
