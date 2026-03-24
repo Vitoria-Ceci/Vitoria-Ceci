@@ -7,8 +7,8 @@
 
 ## 🛠️ Tecnologias
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png)
-![CSS](https://pt.wikipedia.org/wiki/Ficheiro:CSS3_logo_and_wordmark.svg)
-![JavaScript](https://skillforge.com/courses/javascript-training/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
 
 </div>
