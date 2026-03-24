@@ -1,7 +1,7 @@
 # Oi, meu nome é *Vitória Cecilia*, Prazer!
--💻Garota de Programa!
--📚Estudando no momento JavaScript.
--🎒Estudante da UniFavip, cursando "Ciência da Computação".
+- 💻Garota de Programa!
+- 📚Estudando no momento JavaScript.
+- 🎒Estudante da UniFavip, cursando "Ciência da Computação".
 ---
 <div align="center">
 
